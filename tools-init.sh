@@ -98,7 +98,7 @@ fi
 
 
 # Fetch the latest release tag of vip-go-ci
-export VIP_GO_CI_VER="3.8"
+export VIP_GO_CI_VER="0.38"
 
 if [ -d ~/vip-go-ci-tools ] ; then
 	# Tools installed, check if versions installed match with
